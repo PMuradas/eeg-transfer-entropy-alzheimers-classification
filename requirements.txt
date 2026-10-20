@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+networkx
+joblib
+tqdm
+mne
+pyinform
+openneuro-py
+lightgbm
+xgboost
