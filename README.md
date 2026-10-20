@@ -20,7 +20,7 @@ learning classifiers.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-user>/eeg-alzheimer-transfer-entropy.git
+git clone https://github.com/Caetanietal/eeg-alzheimer-transfer-entropy.git
 cd eeg-alzheimer-transfer-entropy
 
 python -m venv .venv
