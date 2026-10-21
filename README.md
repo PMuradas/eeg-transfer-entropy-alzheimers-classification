@@ -20,8 +20,8 @@ learning classifiers.
 ## Installation
 
 ```bash
-git clone https://github.com/PMuradas/eeg-alzheimer-transfer-entropy.git
-cd eeg-alzheimer-transfer-entropy
+git clone https://github.com/PMuradas/eeg-transfer-entropy-alzheimers-classification.git
+cd eeg-transfer-entropy-alzheimers-classification
 
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
